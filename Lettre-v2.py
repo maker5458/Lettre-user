@@ -15,7 +15,7 @@ print('================================================')
 numuser = input("entre lettre user:  ")
 
 rt = requests.session()
-litters = 'qwertyuiopasdfghjklzxcvbnm1234567890'
+litters = 'qwertyuiopasdfghjklzxcvbnm1234567890_'
 u = ''
 
 id = input("[+] Enter Id : ")
