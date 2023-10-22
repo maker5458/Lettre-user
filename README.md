@@ -9,6 +9,10 @@ and
 ```
 cd Lettre-user
 ```
+and 
+```
+pip3 install colorama
+```
 and run python file
 ```
 python Lettre-v2.py
